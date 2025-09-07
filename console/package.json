@@ -36,7 +36,7 @@
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
     "@ng-icons/core": "^25.0.0",
     "@ng-icons/heroicons": "^25.0.0",
-    "@ngx-translate/core": "^15.0.0",
+    "@ngx-translate/core": "^17.0.0",
     "@tanstack/angular-query-experimental": "^5.85.6",
     "@zitadel/client": "workspace:*",
     "@zitadel/proto": "workspace:*",
